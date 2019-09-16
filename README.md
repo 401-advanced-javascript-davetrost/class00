@@ -6,7 +6,7 @@
 
 ### Links and Resources
 * [submission PR](https://github.com/401-advanced-javascript-davetrost/class00/pull/2)
-* [travis]()
+* [travis](https://travis-ci.com/401-advanced-javascript-davetrost/class00)
 * [front-end-web-server](https://dave-class00.herokuapp.com/)
 
 #### Documentation
