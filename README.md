@@ -5,7 +5,7 @@
 ### Author: Dave Trost
 
 ### Links and Resources
-* [submission PR]()
+* [submission PR](https://github.com/401-advanced-javascript-davetrost/class00/pull/2)
 * [travis]()
 * [front-end-web-server](https://dave-class00.herokuapp.com/)
 
